@@ -1,0 +1,10 @@
+ø<!DOCTYPE html>
+<html>
+<head><title> New Title </title></head>
+<body></body>
+</html>
+<!DOCTYPE html>
+<html>
+<head><title></title></head>
+<body></body>
+</html>
